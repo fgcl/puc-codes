@@ -1,5 +1,5 @@
 /*
-Projeto semaforo
+Projeto semaforo 1.0
 */
 
 //definiçao de variaveis constantes
